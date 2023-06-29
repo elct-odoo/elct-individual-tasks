@@ -4,7 +4,7 @@
 ## Steps to complete the dev
 - [] Step 1
 - [] Step 2
-  [x] Step 1 Created a new db -> personal1
+- [] Step 1: Created a new db -> personal1
 
 3.) set password and login for db
 
