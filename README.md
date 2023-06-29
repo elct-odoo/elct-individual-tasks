@@ -22,7 +22,6 @@
 - [X] Topic #1
       
 ## Interns who helped me
-- [tetragram] - [# minutes helped] - [What they helped on]
-
+None
 ## Interns I helped
-- [tetragram] - [# minutes helped]
+None
