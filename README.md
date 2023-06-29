@@ -2,8 +2,8 @@
 [Link](url) to task
 
 ## Steps to complete the dev
-- [X] Step 1
-- [ ] Step 2
+- [] Step 1
+- [] Step 2
 
 ## Issues/Blocking Points
 - [X] Issue #1
