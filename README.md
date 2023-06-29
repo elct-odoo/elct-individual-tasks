@@ -16,10 +16,7 @@
 - [X] Step 10: Overwrite this button in the stock.picking model
 
 ## Issues/Blocking Points
-- [X] Issue #1
-
-## Topics I need clarification on
-- [X] Topic #1
+- [X] Issue #1: Had an issue returning super, but I realized that super() just returns stock.picking therefore I had to include the method name as well. 
       
 ## Interns who helped me
 None
