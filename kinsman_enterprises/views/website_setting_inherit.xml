@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <odoo>
+        <data>
+            <record id="website_setting_config_inherit" model="ir.ui.view">
+                <field name="name">website.setting.config.inherit</field>
+                <field name="model">res.config.settings</field>
+                <field name="inherit_id" ref="website_sale.res_config_settings_view_form"/>
+                <field name="arch" type="xml">
+                    <xpath expr="//field[@name='enabled_extra_checkout_step']" position="after">
+                       <div class="row mt8 ms-4">
+                        <label string="Hide Prices" for="is_hide_price"/>
+                        <field name="is_hide_price"/>
+                      </div>
+                    </xpath>
+                </field>
+            </record>
+        </data>
+</odoo>
